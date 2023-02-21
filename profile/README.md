@@ -1,4 +1,4 @@
-## Welcome to Moa team 👋
+# Welcome to Moa team 👋
 
 <!--
 
